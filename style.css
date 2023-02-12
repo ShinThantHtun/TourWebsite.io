@@ -671,3 +671,9 @@ tr td {
     background-color: transparent;
     color: white;
 }
+@media screen {
+    body {
+        background-color: blask;
+    }
+    
+}
